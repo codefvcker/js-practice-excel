@@ -1,0 +1,10 @@
+webpack
+ -Babel
+ -Scss
+ -Eslint   
+ -2 modes
+   -Dev
+    dev server, SourceMaps, Eslint, Not monified js & Css
+   -Prod  
+
+Git
